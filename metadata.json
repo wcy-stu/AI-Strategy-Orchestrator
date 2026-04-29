@@ -1,0 +1,6 @@
+{
+  "name": "AI Strategy Orchestrator",
+  "description": "Multi-agent product intelligence platform that synthesizes market research, user sentiment, and technical feasibility into actionable roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Strategy", "Multi-Agent Systems", "Market Intelligence"]
+}
